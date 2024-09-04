@@ -1,0 +1,15 @@
+{
+  "name": "teste_target",
+  "version": "1.0.0",
+  "description": "Teste para vaga de estágio na Target",
+  "scripts": {
+    "fibonacci": "tsx ./src/fibonacci.ts",
+    "somatorio": "tsx ./src/somatorio.ts",
+    "a_test": "tsx ./src/isA.ts"
+  },
+  "author": "Hernande Monteiro <monteiro1998@live.com>",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "tsx": "^4.19.0"
+  }
+}
